@@ -9,7 +9,7 @@ const Magazines = () => {
           <p className="text-xl text-blue-700 mb-10 text-center">Read and download featured magazines including Lok Stambh and Hindi Magazine.</p>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-8 mb-8">
             <a
-              href="/Lok%20Stambh%20Magazine-compressed.pdf"
+              href="/English.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-white rounded-xl shadow-md hover:shadow-lg transition-shadow duration-300 flex flex-col items-center p-8 border-t-4 border-blue-500 hover:scale-105"
@@ -18,7 +18,7 @@ const Magazines = () => {
               <div className="text-blue-500 mb-2">PDF Download</div>
             </a>
             <a
-              href="/Hindi.txt"
+              href="/Hindi.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-white rounded-xl shadow-md hover:shadow-lg transition-shadow duration-300 flex flex-col items-center p-8 border-t-4 border-orange-500 hover:scale-105"
